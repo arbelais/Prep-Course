@@ -242,7 +242,6 @@ function esVocal(letra){
   
   switch(letra) {
     case 'a':
-      return "Es vocal"
     case 'e':
     case 'i':
     case 'o':
